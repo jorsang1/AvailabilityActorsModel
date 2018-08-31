@@ -1,0 +1,11 @@
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\bin\Debug\netcoreapp2.0\TestDispoActors.deps.json
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\bin\Debug\netcoreapp2.0\TestDispoActors.runtimeconfig.json
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\bin\Debug\netcoreapp2.0\TestDispoActors.runtimeconfig.dev.json
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\bin\Debug\netcoreapp2.0\TestDispoActors.dll
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\obj\Debug\netcoreapp2.0\TestDispoActors.csprojResolveAssemblyReference.cache
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\obj\Debug\netcoreapp2.0\TestDispoActors.csproj.CoreCompileInputs.cache
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\obj\Debug\netcoreapp2.0\TestDispoActors.AssemblyInfoInputs.cache
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\obj\Debug\netcoreapp2.0\TestDispoActors.AssemblyInfo.cs
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\bin\Debug\netcoreapp2.0\TestDispoActors.pdb
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\obj\Debug\netcoreapp2.0\TestDispoActors.dll
+c:\users\jordi\source\repos\TestDispoActors\TestDispoActors\obj\Debug\netcoreapp2.0\TestDispoActors.pdb
